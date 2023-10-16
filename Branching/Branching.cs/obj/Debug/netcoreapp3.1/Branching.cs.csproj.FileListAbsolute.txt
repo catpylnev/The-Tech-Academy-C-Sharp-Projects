@@ -1,0 +1,12 @@
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Branching\Branching.cs\bin\Debug\netcoreapp3.1\Branching.cs.exe
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Branching\Branching.cs\bin\Debug\netcoreapp3.1\Branching.cs.deps.json
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Branching\Branching.cs\bin\Debug\netcoreapp3.1\Branching.cs.runtimeconfig.json
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Branching\Branching.cs\bin\Debug\netcoreapp3.1\Branching.cs.runtimeconfig.dev.json
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Branching\Branching.cs\bin\Debug\netcoreapp3.1\Branching.cs.dll
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Branching\Branching.cs\bin\Debug\netcoreapp3.1\Branching.cs.pdb
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Branching\Branching.cs\obj\Debug\netcoreapp3.1\Branching.cs.AssemblyInfoInputs.cache
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Branching\Branching.cs\obj\Debug\netcoreapp3.1\Branching.cs.AssemblyInfo.cs
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Branching\Branching.cs\obj\Debug\netcoreapp3.1\Branching.cs.csproj.CoreCompileInputs.cache
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Branching\Branching.cs\obj\Debug\netcoreapp3.1\Branching.cs.dll
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Branching\Branching.cs\obj\Debug\netcoreapp3.1\Branching.cs.pdb
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Branching\Branching.cs\obj\Debug\netcoreapp3.1\Branching.cs.genruntimeconfig.cache
