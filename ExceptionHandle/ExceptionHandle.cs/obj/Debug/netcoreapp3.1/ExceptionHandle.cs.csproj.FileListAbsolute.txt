@@ -1,0 +1,13 @@
+C:\Users\kcpyl\source\repos\ExceptionHandle\ExceptionHandle.cs\bin\Debug\netcoreapp3.1\ExceptionHandle.cs.exe
+C:\Users\kcpyl\source\repos\ExceptionHandle\ExceptionHandle.cs\bin\Debug\netcoreapp3.1\ExceptionHandle.cs.deps.json
+C:\Users\kcpyl\source\repos\ExceptionHandle\ExceptionHandle.cs\bin\Debug\netcoreapp3.1\ExceptionHandle.cs.runtimeconfig.json
+C:\Users\kcpyl\source\repos\ExceptionHandle\ExceptionHandle.cs\bin\Debug\netcoreapp3.1\ExceptionHandle.cs.runtimeconfig.dev.json
+C:\Users\kcpyl\source\repos\ExceptionHandle\ExceptionHandle.cs\bin\Debug\netcoreapp3.1\ExceptionHandle.cs.dll
+C:\Users\kcpyl\source\repos\ExceptionHandle\ExceptionHandle.cs\bin\Debug\netcoreapp3.1\ExceptionHandle.cs.pdb
+C:\Users\kcpyl\source\repos\ExceptionHandle\ExceptionHandle.cs\obj\Debug\netcoreapp3.1\ExceptionHandle.cs.csproj.AssemblyReference.cache
+C:\Users\kcpyl\source\repos\ExceptionHandle\ExceptionHandle.cs\obj\Debug\netcoreapp3.1\ExceptionHandle.cs.AssemblyInfoInputs.cache
+C:\Users\kcpyl\source\repos\ExceptionHandle\ExceptionHandle.cs\obj\Debug\netcoreapp3.1\ExceptionHandle.cs.AssemblyInfo.cs
+C:\Users\kcpyl\source\repos\ExceptionHandle\ExceptionHandle.cs\obj\Debug\netcoreapp3.1\ExceptionHandle.cs.csproj.CoreCompileInputs.cache
+C:\Users\kcpyl\source\repos\ExceptionHandle\ExceptionHandle.cs\obj\Debug\netcoreapp3.1\ExceptionHandle.cs.dll
+C:\Users\kcpyl\source\repos\ExceptionHandle\ExceptionHandle.cs\obj\Debug\netcoreapp3.1\ExceptionHandle.cs.pdb
+C:\Users\kcpyl\source\repos\ExceptionHandle\ExceptionHandle.cs\obj\Debug\netcoreapp3.1\ExceptionHandle.cs.genruntimeconfig.cache
