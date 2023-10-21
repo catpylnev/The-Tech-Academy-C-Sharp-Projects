@@ -1,0 +1,13 @@
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\CallingMethods\CallingMethods.cs\bin\Debug\netcoreapp3.1\CallingMethods.cs.exe
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\CallingMethods\CallingMethods.cs\bin\Debug\netcoreapp3.1\CallingMethods.cs.deps.json
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\CallingMethods\CallingMethods.cs\bin\Debug\netcoreapp3.1\CallingMethods.cs.runtimeconfig.json
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\CallingMethods\CallingMethods.cs\bin\Debug\netcoreapp3.1\CallingMethods.cs.runtimeconfig.dev.json
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\CallingMethods\CallingMethods.cs\bin\Debug\netcoreapp3.1\CallingMethods.cs.dll
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\CallingMethods\CallingMethods.cs\bin\Debug\netcoreapp3.1\CallingMethods.cs.pdb
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\CallingMethods\CallingMethods.cs\obj\Debug\netcoreapp3.1\CallingMethods.cs.csproj.AssemblyReference.cache
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\CallingMethods\CallingMethods.cs\obj\Debug\netcoreapp3.1\CallingMethods.cs.AssemblyInfoInputs.cache
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\CallingMethods\CallingMethods.cs\obj\Debug\netcoreapp3.1\CallingMethods.cs.AssemblyInfo.cs
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\CallingMethods\CallingMethods.cs\obj\Debug\netcoreapp3.1\CallingMethods.cs.csproj.CoreCompileInputs.cache
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\CallingMethods\CallingMethods.cs\obj\Debug\netcoreapp3.1\CallingMethods.cs.dll
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\CallingMethods\CallingMethods.cs\obj\Debug\netcoreapp3.1\CallingMethods.cs.pdb
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\CallingMethods\CallingMethods.cs\obj\Debug\netcoreapp3.1\CallingMethods.cs.genruntimeconfig.cache
