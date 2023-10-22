@@ -1,0 +1,13 @@
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\VoidMethod\VoidMethod.cs\bin\Debug\netcoreapp3.1\VoidMethod.cs.exe
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\VoidMethod\VoidMethod.cs\bin\Debug\netcoreapp3.1\VoidMethod.cs.deps.json
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\VoidMethod\VoidMethod.cs\bin\Debug\netcoreapp3.1\VoidMethod.cs.runtimeconfig.json
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\VoidMethod\VoidMethod.cs\bin\Debug\netcoreapp3.1\VoidMethod.cs.runtimeconfig.dev.json
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\VoidMethod\VoidMethod.cs\bin\Debug\netcoreapp3.1\VoidMethod.cs.dll
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\VoidMethod\VoidMethod.cs\bin\Debug\netcoreapp3.1\VoidMethod.cs.pdb
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\VoidMethod\VoidMethod.cs\obj\Debug\netcoreapp3.1\VoidMethod.cs.csproj.AssemblyReference.cache
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\VoidMethod\VoidMethod.cs\obj\Debug\netcoreapp3.1\VoidMethod.cs.AssemblyInfoInputs.cache
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\VoidMethod\VoidMethod.cs\obj\Debug\netcoreapp3.1\VoidMethod.cs.AssemblyInfo.cs
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\VoidMethod\VoidMethod.cs\obj\Debug\netcoreapp3.1\VoidMethod.cs.csproj.CoreCompileInputs.cache
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\VoidMethod\VoidMethod.cs\obj\Debug\netcoreapp3.1\VoidMethod.cs.dll
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\VoidMethod\VoidMethod.cs\obj\Debug\netcoreapp3.1\VoidMethod.cs.pdb
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\VoidMethod\VoidMethod.cs\obj\Debug\netcoreapp3.1\VoidMethod.cs.genruntimeconfig.cache
