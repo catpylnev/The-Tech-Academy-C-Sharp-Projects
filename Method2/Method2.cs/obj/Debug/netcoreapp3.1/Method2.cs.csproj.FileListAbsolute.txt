@@ -1,0 +1,13 @@
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Method2\Method2.cs\bin\Debug\netcoreapp3.1\Method2.cs.exe
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Method2\Method2.cs\bin\Debug\netcoreapp3.1\Method2.cs.deps.json
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Method2\Method2.cs\bin\Debug\netcoreapp3.1\Method2.cs.runtimeconfig.json
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Method2\Method2.cs\bin\Debug\netcoreapp3.1\Method2.cs.runtimeconfig.dev.json
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Method2\Method2.cs\bin\Debug\netcoreapp3.1\Method2.cs.dll
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Method2\Method2.cs\bin\Debug\netcoreapp3.1\Method2.cs.pdb
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Method2\Method2.cs\obj\Debug\netcoreapp3.1\Method2.cs.csproj.AssemblyReference.cache
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Method2\Method2.cs\obj\Debug\netcoreapp3.1\Method2.cs.AssemblyInfoInputs.cache
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Method2\Method2.cs\obj\Debug\netcoreapp3.1\Method2.cs.AssemblyInfo.cs
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Method2\Method2.cs\obj\Debug\netcoreapp3.1\Method2.cs.csproj.CoreCompileInputs.cache
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Method2\Method2.cs\obj\Debug\netcoreapp3.1\Method2.cs.dll
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Method2\Method2.cs\obj\Debug\netcoreapp3.1\Method2.cs.pdb
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Method2\Method2.cs\obj\Debug\netcoreapp3.1\Method2.cs.genruntimeconfig.cache
