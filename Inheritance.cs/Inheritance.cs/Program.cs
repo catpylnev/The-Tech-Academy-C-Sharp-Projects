@@ -8,8 +8,8 @@ namespace Inheritance.cs
         {
             Employee employee = new Employee
             {
-                FirstName = "Catherine",
-                LastName = "Pylnev",
+                FirstName = "Sample",
+                LastName = "Student",
                 Id = 12345
             };
 

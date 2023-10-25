@@ -8,9 +8,5 @@ namespace Inheritance.cs
     {
         public int Id { get; set; }
 
-        public override void SayName()
-        {
-            Console.WriteLine($"Employee Name: {FirstName} {LastName}");
-        }
     }
 }
