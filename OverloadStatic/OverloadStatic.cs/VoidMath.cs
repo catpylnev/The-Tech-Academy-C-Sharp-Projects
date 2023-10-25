@@ -6,20 +6,27 @@ namespace OverloadStatic.cs
 {
     public class VoidMath
     {
-        public static void DivideByThree(int number)
+        public void DivideByTwo(int number)
         {
-            int result = number / 3;
-            Console.WriteLine($"Result of division by 3: {result}");
+            int result = number / 2;
+            Console.WriteLine($"Result of division by 2: {result}");
         }
 
-        public static void DivideByThreeWithOutput(int number,out int result)
+        public void DivideByTwoWithOutput(int number,out int result)
         {
-            result = number / 3;
+            result = number / 2;
         }
 
-        public static void DivideByThreeWithOutput(int number, out double result)
+        public void DivideByTwoWithOutput(int number, out double result)
         {
-            result = number / 3.0;
+            result = number / 2.0;
+        }
+    }
+    public static class StaticClass
+    {
+        public static void DisplayMessage()
+        {
+            Console.WriteLine("Hello, World");
         }
     }
 }

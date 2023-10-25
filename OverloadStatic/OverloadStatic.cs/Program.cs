@@ -6,20 +6,23 @@ namespace OverloadStatic.cs
     {
         static void Main(string[] args)
         {
-            // VoidMath math = new VoidMath();
+           VoidMath math = new VoidMath();
 
             Console.Write("Enter a number: ");
             if (int.TryParse(Console.ReadLine(), out int userNumber))
             {
-                VoidMath.DivideByThree(userNumber);
+
+                math.DivideByTwo(userNumber);
 
                 int output;
-                VoidMath.DivideByThreeWithOutput(userNumber, out output);
+                math.DivideByTwoWithOutput(userNumber, out output);
                 Console.WriteLine($"Output with output parameter: {output}");
 
                 double doubleOutput;
-                VoidMath.DivideByThreeWithOutput(userNumber, out doubleOutput);
+                math.DivideByTwoWithOutput(userNumber, out doubleOutput);
                 Console.WriteLine($"Double output: {doubleOutput}");
+
+                StaticClass.DisplayMessage();
             }
             else
             {
