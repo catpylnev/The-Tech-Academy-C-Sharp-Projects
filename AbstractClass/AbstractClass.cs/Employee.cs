@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AbstractClass.cs
 {
-    public class Employee : Person
+    public class Employee : Person, IQuittable
     {
 
         public Employee(string firstName, string lastName)
@@ -16,6 +16,11 @@ namespace AbstractClass.cs
         public override void SayName()
         {
             Console.WriteLine($"Employee's name: {FirstName} {LastName}");
+        }
+
+        public void Quit()
+        {
+            Console.WriteLine($"{FirstName} {LastName} has quit their job.");
         }
     }
 }
