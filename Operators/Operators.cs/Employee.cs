@@ -7,19 +7,16 @@ namespace Operators.cs
     class Employee
     {
         public int ID { get; set; }
-  
-        public override bool Equals(object obj)
+
+        public static bool operator ==(Employee employee1, Employee employee2)
         {
-            if (obj is Employee otherEmployee)
-            {
-                return this.ID == otherEmployee.ID;
-            }
-            return false;
+            return employee1.ID == employee2.ID;
         }
 
-        public override int GetHashCode()
+        public static bool operator !=(Employee employee1, Employee employee2)
         {
-            return ID.GetHashCode();
+            return employee1.ID != employee2.ID;
         }
     }
 }
+
