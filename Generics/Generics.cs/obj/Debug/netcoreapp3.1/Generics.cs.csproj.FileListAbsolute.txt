@@ -1,0 +1,13 @@
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Generics\Generics.cs\bin\Debug\netcoreapp3.1\Generics.cs.exe
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Generics\Generics.cs\bin\Debug\netcoreapp3.1\Generics.cs.deps.json
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Generics\Generics.cs\bin\Debug\netcoreapp3.1\Generics.cs.runtimeconfig.json
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Generics\Generics.cs\bin\Debug\netcoreapp3.1\Generics.cs.runtimeconfig.dev.json
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Generics\Generics.cs\bin\Debug\netcoreapp3.1\Generics.cs.dll
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Generics\Generics.cs\bin\Debug\netcoreapp3.1\Generics.cs.pdb
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Generics\Generics.cs\obj\Debug\netcoreapp3.1\Generics.cs.csproj.AssemblyReference.cache
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Generics\Generics.cs\obj\Debug\netcoreapp3.1\Generics.cs.AssemblyInfoInputs.cache
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Generics\Generics.cs\obj\Debug\netcoreapp3.1\Generics.cs.AssemblyInfo.cs
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Generics\Generics.cs\obj\Debug\netcoreapp3.1\Generics.cs.csproj.CoreCompileInputs.cache
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Generics\Generics.cs\obj\Debug\netcoreapp3.1\Generics.cs.dll
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Generics\Generics.cs\obj\Debug\netcoreapp3.1\Generics.cs.pdb
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Generics\Generics.cs\obj\Debug\netcoreapp3.1\Generics.cs.genruntimeconfig.cache
