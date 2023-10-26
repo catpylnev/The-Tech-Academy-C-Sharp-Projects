@@ -1,0 +1,13 @@
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BlackJack\BlackJack.cs\bin\Debug\netcoreapp3.1\BlackJack.cs.exe
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BlackJack\BlackJack.cs\bin\Debug\netcoreapp3.1\BlackJack.cs.deps.json
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BlackJack\BlackJack.cs\bin\Debug\netcoreapp3.1\BlackJack.cs.runtimeconfig.json
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BlackJack\BlackJack.cs\bin\Debug\netcoreapp3.1\BlackJack.cs.runtimeconfig.dev.json
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BlackJack\BlackJack.cs\bin\Debug\netcoreapp3.1\BlackJack.cs.dll
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BlackJack\BlackJack.cs\bin\Debug\netcoreapp3.1\BlackJack.cs.pdb
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BlackJack\BlackJack.cs\obj\Debug\netcoreapp3.1\BlackJack.cs.csproj.AssemblyReference.cache
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BlackJack\BlackJack.cs\obj\Debug\netcoreapp3.1\BlackJack.cs.AssemblyInfoInputs.cache
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BlackJack\BlackJack.cs\obj\Debug\netcoreapp3.1\BlackJack.cs.AssemblyInfo.cs
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BlackJack\BlackJack.cs\obj\Debug\netcoreapp3.1\BlackJack.cs.csproj.CoreCompileInputs.cache
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BlackJack\BlackJack.cs\obj\Debug\netcoreapp3.1\BlackJack.cs.dll
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BlackJack\BlackJack.cs\obj\Debug\netcoreapp3.1\BlackJack.cs.pdb
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\BlackJack\BlackJack.cs\obj\Debug\netcoreapp3.1\BlackJack.cs.genruntimeconfig.cache
