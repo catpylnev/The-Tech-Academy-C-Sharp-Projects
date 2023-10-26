@@ -1,0 +1,13 @@
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Operators\Operators.cs\bin\Debug\netcoreapp3.1\Operators.cs.exe
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Operators\Operators.cs\bin\Debug\netcoreapp3.1\Operators.cs.deps.json
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Operators\Operators.cs\bin\Debug\netcoreapp3.1\Operators.cs.runtimeconfig.json
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Operators\Operators.cs\bin\Debug\netcoreapp3.1\Operators.cs.runtimeconfig.dev.json
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Operators\Operators.cs\bin\Debug\netcoreapp3.1\Operators.cs.dll
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Operators\Operators.cs\bin\Debug\netcoreapp3.1\Operators.cs.pdb
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Operators\Operators.cs\obj\Debug\netcoreapp3.1\Operators.cs.csproj.AssemblyReference.cache
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Operators\Operators.cs\obj\Debug\netcoreapp3.1\Operators.cs.AssemblyInfoInputs.cache
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Operators\Operators.cs\obj\Debug\netcoreapp3.1\Operators.cs.AssemblyInfo.cs
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Operators\Operators.cs\obj\Debug\netcoreapp3.1\Operators.cs.csproj.CoreCompileInputs.cache
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Operators\Operators.cs\obj\Debug\netcoreapp3.1\Operators.cs.dll
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Operators\Operators.cs\obj\Debug\netcoreapp3.1\Operators.cs.pdb
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Operators\Operators.cs\obj\Debug\netcoreapp3.1\Operators.cs.genruntimeconfig.cache
