@@ -1,8 +1,9 @@
-﻿using System;
+﻿using BlackJack.cs;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace BlackJack.cs
+namespace BlackJack.Interfaces
 {
     interface IWalkAway
     {
