@@ -1,0 +1,12 @@
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Datetime\Datetime.cs\bin\Debug\netcoreapp3.1\Datetime.cs.exe
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Datetime\Datetime.cs\bin\Debug\netcoreapp3.1\Datetime.cs.deps.json
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Datetime\Datetime.cs\bin\Debug\netcoreapp3.1\Datetime.cs.runtimeconfig.json
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Datetime\Datetime.cs\bin\Debug\netcoreapp3.1\Datetime.cs.runtimeconfig.dev.json
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Datetime\Datetime.cs\bin\Debug\netcoreapp3.1\Datetime.cs.dll
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Datetime\Datetime.cs\bin\Debug\netcoreapp3.1\Datetime.cs.pdb
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Datetime\Datetime.cs\obj\Debug\netcoreapp3.1\Datetime.cs.AssemblyInfoInputs.cache
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Datetime\Datetime.cs\obj\Debug\netcoreapp3.1\Datetime.cs.AssemblyInfo.cs
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Datetime\Datetime.cs\obj\Debug\netcoreapp3.1\Datetime.cs.csproj.CoreCompileInputs.cache
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Datetime\Datetime.cs\obj\Debug\netcoreapp3.1\Datetime.cs.dll
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Datetime\Datetime.cs\obj\Debug\netcoreapp3.1\Datetime.cs.pdb
+C:\Users\kcpyl\Documents\GitHub\The-Tech-Academy-C-Sharp-Projects\Datetime\Datetime.cs\obj\Debug\netcoreapp3.1\Datetime.cs.genruntimeconfig.cache
